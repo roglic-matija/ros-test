@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: openni2_launch
+Version: 1.5.1
+Summary: Launch files to start the openni2_camera drivers using rgbd_launch.
+Home-page: UNKNOWN
+Author: Isaac I. Y. Saito
+Author-email: isaac.saito@plusonerobotics.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
